@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK24566",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "allymc4",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
-    "version": "",
+    "ip": "juniormcfun.mcsh.io",
+    "port": 25565,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "boligor"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        ">:(",
+        ":<",
+        ":>"
       ]
     },
     "chat-log": true,
