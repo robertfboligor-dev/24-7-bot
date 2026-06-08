@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "legacysmpfun.mcsh.io",
+    "ip": "juniorsmpfun.mcsh.io",
     "port": 25565,
     "version": "1.21.11",
     "try-creative": false
