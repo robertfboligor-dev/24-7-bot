@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Afkbot7abkiorfff",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "7abikor",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
-    "version": "",
+    "ip": "legacysmpfun.mcsh.io",
+    "port": 25565,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "boligor123"
     },
     "anti-afk": {
       "enabled": true,
