@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "legacymcfun.mcsh.io",
+    "ip": "legacysmpfun.mcsh.io",
     "port": 25565,
     "version": "1.21.11",
     "try-creative": false
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "boligor"
+      "password": "boligor123"
     },
     "anti-afk": {
       "enabled": true,
