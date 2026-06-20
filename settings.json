@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ykirulandsmp.mcsh.io",
+    "ip": "xenosurvival.mcsh.io",
     "port": 25565,
     "version": "1.21.11",
     "try-creative": false
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
