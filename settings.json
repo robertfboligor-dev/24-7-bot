@@ -1,7 +1,7 @@
 {
   "name": "afkbotnigger",
   "bot-account": {
-    "username": "gaemaster67",
+    "username": "LOLSKIBIDIN",
     "password": "",
     "type": "offline"
   },
@@ -34,7 +34,6 @@
         "こんにちは！",
         "誰か一緒に遊びませんか？",
         "今日は運がいい！"
-      } 
     },
     "chat-log": true,
     "auto-reconnect": true,
