@@ -34,7 +34,6 @@
         "こんにちは",
         "誰か一緒に遊びませんか",
         "今日は運がいい！",
-      }
     },
     "chat-log": true,
     "auto-reconnect": true,
