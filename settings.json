@@ -31,9 +31,10 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "tehgeh",
-        "fefef",
-        "wonderful",
+        "また後で戻ります",
+        "今日は運がいい！",
+        "このサーバー初めてです",
+      ]
     },
     "chat-log": true,
     "auto-reconnect": true,
