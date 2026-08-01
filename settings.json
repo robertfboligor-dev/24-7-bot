@@ -27,16 +27,28 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
+      "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "..",
-        "...",
-        "."
+          "こんにちは！",
+          "誰か一緒に遊びませんか？",
+          "このサーバー初めてです！",
+          "スポーンはどこですか？",
+          "土地の保護ってどうやるの？",
+          "ダイヤ探しに行ってきます！",
+          "誰か取引しませんか？",
+          "こんばんは！",
+          "いいサーバーですね！",
+          "お疲れ様です！",
+          "ラグいのは私だけ？",
+          "ネザー行ってきます！",
+          "誰かPvPしませんか？",
+          "エンチャント完了！",
+          "今日は運がいい！",
       ]
     },
-    "chat-log": false,
+    "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000,
